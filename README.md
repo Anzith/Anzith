@@ -22,6 +22,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Anzith/Anzith/output/snake.svg" alt="Snake animation" />
-
 ###
